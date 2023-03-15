@@ -1,6 +1,6 @@
 # The Site Configuration
 
-# Import the theme
+# Import the themehttps://github.com/prokopism/prokopism.github.io/blob/main/_config.yml
 theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
@@ -14,7 +14,7 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:Europe/Athens
+timezone:'Europe/Athens'
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
